@@ -20,7 +20,11 @@
     // php variable in $ signe
     $name = 'Shawon Talukder';
     $age = 24;
-    
+    // echo variable
+    echo $name;
+    echo '<h3>My Name Is:'.$name.' </h3>';
+    echo '<br>';
+    echo '<h3>My Age Is:'.$age.' </h3>';
     ?>
 
 </body>
