@@ -10,7 +10,7 @@
     <h2>Switch Statement</h2>
     <?php
     $grade = 'F';
-
+// In Switch Switch like IF else Statement
     switch($grade){
         case 'A':
         echo '<h4 style="color: blue">wow</h4>';
@@ -20,7 +20,7 @@
         break;
         default:
         echo '<h4 style="color: red">Failed</h4>';
-        break;
+        break; 
     }
     
     ?>
